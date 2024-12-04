@@ -7,14 +7,14 @@ Consultor SAP ABAP desde 2005.
 
 ## Certificaciones
 
-■ SAP Certified Technology Associate - SAP Fiori Application Developer 
-    23-NOV-2020
-■ SAP Certified Associate - SAP Activate Project Manager
-    09-NOV-2020 
-■ SAP Certified Technology Associate - SAP Fiori System Administration
-    09-NOV-2020 
-■ SAP Certified Development Specialist - ABAP for SAP HANA 2.0
-    26-OCT-2020
+■ SAP Certified Technology Associate - SAP Fiori Application Developer  
+    23-NOV-2020  
+■ SAP Certified Associate - SAP Activate Project Manager  
+    09-NOV-2020  
+■ SAP Certified Technology Associate - SAP Fiori System Administration  
+    09-NOV-2020  
+■ SAP Certified Development Specialist - ABAP for SAP HANA 2.0  
+    26-OCT-2020 
 
 ## Sobre este repositorio
 
