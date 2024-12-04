@@ -1,9 +1,9 @@
 # Sobre mi
 
-Ingeniero Industrial, amplio conocimiento y comprensión de procesos de negocio y mejores prácticas de la industria. 
-Más de 30 años de experiencia profesional participando en Análisis, Diseño e Implementación de Proyectos de Informática.
-Consultor SAP S/4HANA desde 2016.
-Consultor SAP ABAP desde 2005.
+Ingeniero Industrial, amplio conocimiento y comprensión de procesos de negocio y mejores prácticas de la industria.   
+Más de 30 años de experiencia profesional participando en Análisis, Diseño e Implementación de Proyectos de Informática.  
+Consultor SAP S/4HANA desde 2016.  
+Consultor SAP ABAP desde 2005.  
 
 ## Certificaciones
 
